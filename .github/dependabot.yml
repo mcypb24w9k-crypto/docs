@@ -11,8 +11,7 @@ updates:
   - package-ecosystem: npm
     directory: '/'
     schedule:
-      interval: daylie
-      day: tuesday
+      interval: daily
     cooldown:
       default-days: 7
     ignore:
